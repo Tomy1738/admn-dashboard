@@ -7,25 +7,6 @@ const users = [
       email: 'user@nextmail.com',
       password: '123456',
     },
-    {
-      id: '410545b2-4001-4271-9855-fec4b6a6442a',
-      name: 'Mokuavernum',
-      email: 'mokuavernum@nextmail.com',
-      password: '59067',
-    },
-
-    {
-      id: '410545b2-4001-4271-9855-fec4b6a6442a',
-      name: 'Mokuavernum',
-      email: 'mokuavernum@mail.com',
-      password: '5906720',
-    },
-    {
-      id: '410545b2-4061-4271-9855-fec4b6a6442a',
-      name: 'Moku',
-      email: 'mokuavernum@gmail.com',
-      password: '5906720',
-    },
   ];
   
   const customers = [
